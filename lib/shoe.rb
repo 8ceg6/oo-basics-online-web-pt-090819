@@ -8,7 +8,8 @@ attr_reader :brand
   end
   def cobble()
     if condition == new 
-      puts ""
+      puts "Your shoe is as good as new"
+    else 
   
 end
 
