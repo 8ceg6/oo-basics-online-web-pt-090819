@@ -6,7 +6,9 @@ attr_reader :brand
     def initialize(brand)
     @brand = brand
   end
-  def cobble
+  def cobble()
+    if condition == new 
+      puts ""
   
 end
 
