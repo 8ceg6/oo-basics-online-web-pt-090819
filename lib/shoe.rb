@@ -8,4 +8,4 @@ attr_reader :brands
     
     end
 end
-end
+
